@@ -10,6 +10,10 @@ header{
     position: relative;
 }
 
+.header__container a{
+    text-decoration: none;
+}
+
 /* ********** CTA Styling *********** */
 .cta{
     margin-top: 2.5rem;
