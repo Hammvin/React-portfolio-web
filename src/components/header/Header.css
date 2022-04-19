@@ -44,7 +44,7 @@ header{
 .me{
     background: var(--color-primary);
     width: 18rem;
-    height: 40rem;
+    height: 100%;
     position: absolute;
     left: calc(50% - 11rem);
     margin-top: 4rem;

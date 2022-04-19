@@ -36,7 +36,10 @@ const About = () => {
               <small>4 Completed Projects</small>
             </article>
           </div>
-           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente debitis molestiae, commodi ipsam numquam quaerat aut ea eius, odit velit in a minus nemo quisquam repellat maiores, odio libero nostrum.</p>
+           <p>Having worked on different projects, both hosted and practise projects, 
+             I can confidently confirm that I have a firm grip on HTML, CSS, 
+             Bootstrap and React JavaScript for front-end with intermediate skills in Vanilla JavaScript. 
+             I also have Object-Oriented PHP and Node JS for Backend logic with Mongo & Mysql Databases and GIT for Version Control.</p>
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
