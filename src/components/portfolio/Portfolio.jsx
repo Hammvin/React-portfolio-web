@@ -38,7 +38,7 @@ const images = [
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>My Resent Work</h5>
+      {/*<h5>My Resent Work</h5>*/}
       <h2>Portfolio</h2>
 
       <div className="container portfolio__container">
@@ -50,8 +50,8 @@ const Portfolio = () => {
                 <img src={image} alt={title} />
                 <h3>{title}</h3>
                 <div className="portfolio__item-cta">
-                  <a href={github} className='btn' target='_blank'>GitHub</a>
-                  <a href={demo} className='btn btn-primary' target='_blank'>Live View</a>
+                  <a href={github} className='btn' target='_blank' rel="noreferrer">GitHub</a>
+                  <a href={demo} className='btn btn-primary' target='_blank' rel="noreferrer">Live View</a>
                 </div>
               </div>
             </article>

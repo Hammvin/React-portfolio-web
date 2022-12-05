@@ -8,7 +8,7 @@ import {RiFolderChartLine} from 'react-icons/ri'
 const About = () => {
   return (
     <section id='about'>
-      <h5> Get To Know</h5>
+      {/*<h5> Get To Know</h5>*/}
       <h2>About Me</h2>
       <div className="container about__container">
         <div className="about__me">
@@ -36,9 +36,9 @@ const About = () => {
               <small>4 Completed Projects</small>
             </article>
           </div>
-           <p>Having worked on different projects, both hosted and practise projects, 
-             I can confidently confirm that I have a firm grip on HTML, CSS, 
-             Bootstrap and React JavaScript for front-end with intermediate skills in Vanilla JavaScript. 
+           <p>Having worked on different projects, both hosted and unhosted projects, 
+             I confidently confirm that I have a firm grip on HTML, CSS, JavaScript,
+             Bootstrap and React-JavaScript for front-end wed design. 
              I also have Object-Oriented PHP and Node JS for Backend logic with Mongo & Mysql Databases and GIT for Version Control.</p>
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

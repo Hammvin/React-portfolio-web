@@ -76,6 +76,10 @@
     .about__container{
         grid-template-columns: 1fr;
         gap: 0;
+    }
+    .about__image{
+        border-radius: 2rem;
+        height: 100%;
     } 
 
     .about__me{

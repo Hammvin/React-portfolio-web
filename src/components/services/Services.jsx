@@ -5,7 +5,7 @@ import {BsFillPatchCheckFill} from 'react-icons/bs'
 const Services = () => {
   return (
     <section id='services'>
-      <h5>What I Offer</h5>
+      {/*<h5>What I Offer</h5>*/}
       <h2>Services</h2>
 
       <div className="container services__container">
@@ -17,19 +17,19 @@ const Services = () => {
           <ul className="service__list">
             <li>
             <BsFillPatchCheckFill className='services__list-icon'/>
-            <p>Lorem ipsum dolor sit amet elit.</p>
+            <p>Producing professional designs.</p>
             </li>
             <li>
             <BsFillPatchCheckFill className='services__list-icon'/>
-            <p>Lorem ipsum dolor sit amet elit.</p>
+            <p>Re-designing existing websites.</p>
             </li>
             <li>
             <BsFillPatchCheckFill className='services__list-icon'/>
-            <p>Lorem ipsum dolor sit amet elit.</p>
+            <p>Designing vatual concept into actual product.</p>
             </li>
             <li>
             <BsFillPatchCheckFill className='services__list-icon'/>
-            <p>Lorem ipsum dolor sit amet elit.</p>
+            <p>Converting prototypes to actual designs.</p>
             </li>
           </ul>
         </arcticle>
@@ -42,19 +42,19 @@ const Services = () => {
           <ul className="service__list">
             <li>
             <BsFillPatchCheckFill className='services__list-icon'/>
-            <p>Lorem ipsum dolor sit amet elit.</p>
+            <p>Developing as per your need.</p>
             </li>
             <li>
             <BsFillPatchCheckFill className='services__list-icon'/>
-            <p>Lorem ipsum dolor sit amet elit.</p>
+            <p>Maintaining codebase for scalability.</p>
             </li>
             <li>
             <BsFillPatchCheckFill className='services__list-icon'/>
-            <p>Lorem ipsum dolor sit amet elit.</p>
+            <p>Taking care of back-end security.</p>
             </li>
             <li>
             <BsFillPatchCheckFill className='services__list-icon'/>
-            <p>Lorem ipsum dolor sit amet elit.</p>
+            <p>Ensuring code Re-usability.</p>
             </li>
           </ul>
         </arcticle>
@@ -67,19 +67,19 @@ const Services = () => {
           <ul className="service__list">
             <li>
             <BsFillPatchCheckFill className='services__list-icon'/>
-            <p>Lorem ipsum dolor sit amet elit.</p>
+            <p>Guaranteed first page Google ranking.</p>
             </li>
             <li>
             <BsFillPatchCheckFill className='services__list-icon'/>
-            <p>Lorem ipsum dolor sit amet elit.</p>
+            <p>Continious optimization and testing.</p>
             </li>
             <li>
             <BsFillPatchCheckFill className='services__list-icon'/>
-            <p>Lorem ipsum dolor sit amet elit.</p>
+            <p>Regular search assesments.</p>
             </li>
             <li>
             <BsFillPatchCheckFill className='services__list-icon'/>
-            <p>Lorem ipsum dolor sit amet elit.</p>
+            <p>Regular reporting and analysis.</p>
             </li>
           </ul>
         </arcticle>

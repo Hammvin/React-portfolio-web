@@ -4,7 +4,7 @@ import CLIENT1 from '../../assets/client1.jpeg'
 import CLIENT2 from '../../assets/client2.jpg'
 import CLIENT3 from '../../assets/client3.jpg'
 import CLIENT4 from '../../assets/client4.jpg'
-import CLIENT5 from '../../assets/client5.jpg'
+//import CLIENT5 from '../../assets/client5.jpg'
 //import {Pagination} from 'swiper';
 //import { Swiper, SwiperSlide } from 'swiper/react';
 
